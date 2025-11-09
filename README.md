@@ -29,4 +29,4 @@ It connects with the companion **PCGamepadX** server application to emulate real
 
 ---
 
-## 📁 Project Structure
+> 💡 *Companion Project:* [NeoPad](https://github.com/Sham2003/NeoPad)

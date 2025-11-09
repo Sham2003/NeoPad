@@ -7,16 +7,13 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
-import androidx.compose.ui.graphics.vector.PathNode
 import androidx.lifecycle.ViewModel
-import com.sham.neopad.appLog
 import com.sham.neopad.model.ComponentDimension
 import com.sham.neopad.model.ComponentType
 import com.sham.neopad.model.ControllerLayoutData
 import com.sham.neopad.model.ControllerType
 import com.sham.neopad.model.GamepadComponent
 import com.sham.neopad.model.SpecialButtons
-import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 
